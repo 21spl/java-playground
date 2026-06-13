@@ -1,0 +1,12 @@
+
+# output folder
+bin/
+
+
+# local VS code workspace settings
+.vscode/
+
+
+# operating system junk files
+.DS_Store
+Thumbs.db
